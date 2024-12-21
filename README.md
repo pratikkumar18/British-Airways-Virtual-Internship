@@ -16,6 +16,7 @@ Following insights were uncovered as they are summed up in the one slide present
 [British Airways.pptx](https://github.com/user-attachments/files/18216508/British.Airways.pptx)
 
 
+![British Airways-images-1](https://github.com/user-attachments/assets/3491bb6c-6b4e-4d76-a72e-4d1dc0cb6a9f)
 
 
 Task 2 - Predicting customer buying behaviour
@@ -24,3 +25,4 @@ Customers are more empowered than ever because they have access to a wealth of i
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
 [Predicitve Model Results.pptx](https://github.com/user-attachments/files/18216510/Predicitve.Model.Results.pptx)
+![Predicitve Model Results-images-1](https://github.com/user-attachments/assets/93f5a0ae-a53a-4dc8-b07c-e47e3adc0961)
